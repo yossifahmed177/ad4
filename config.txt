@@ -1,0 +1,6 @@
+﻿token=NDkyODYwNzIxNjU1MTg1NDM5.Ds36xw.6KGhNYVmGPzKZV4dDAiFseobXDQ
+owner=460389855382470662
+prefix= a
+game= ahelp
+stayinchannel=true
+songinstatus=true 
